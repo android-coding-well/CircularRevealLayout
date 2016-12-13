@@ -2,6 +2,7 @@
 兼容5.0以下圆形揭示效果
 
 ![Image](https://github.com/huweijian5/CircularRevealLayout/blob/master/screenshots/QQ%E6%88%AA%E5%9B%BE20161213224059.png)
+***
 ![Image](https://github.com/huweijian5/CircularRevealLayout/blob/master/screenshots/device-2016-12-13-223904.mp4_1481640644.gif)
 
 ##使用说明
